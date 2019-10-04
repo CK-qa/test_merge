@@ -4,6 +4,6 @@ public class Class_1 {
     String s;
 
     public void foo1() {
-        //gdfklighn
+        //pyschpysch
     }
 }
