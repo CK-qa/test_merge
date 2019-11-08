@@ -11,5 +11,11 @@ public class Class_1 {
     public static void main(String[] args) {
         bar1();
         //another
+
+        //another change
+    }
+
+    public void foo() {
+
     }
 }
